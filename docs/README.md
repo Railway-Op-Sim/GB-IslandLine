@@ -22,3 +22,7 @@ The route features all the main stations:
 as well as St. John's Road depot. Due to the lack of information on the speed limits of the line, the line speed is set mainly to 45mph. Ryde Pier, Ryde Esplanade Jct, Smallbrook Jct, Brading and Sandown area have speed limits of 20mph, with a 15mph on the approach to Shanklin. 
 
 If you know of a reliable source for a more accurate description of the line speeds please let us know! 
+
+## Development
+
+As mentioned, Island Line is the first "open" project which invites contribution from anyone. Further contributions towards the project are welcome be it addition of further timetables or improvements to the representation of the line/accuracy.
