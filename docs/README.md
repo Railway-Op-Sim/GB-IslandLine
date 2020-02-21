@@ -25,4 +25,4 @@ If you know of a reliable source for a more accurate description of the line spe
 
 ## Development
 
-As mentioned, Island Line is the first "open" project which invites contribution from anyone. Further contributions towards the project are welcome be it addition of further timetables or improvements to the representation of the line/accuracy.
+As mentioned, Island Line is the first "open" project which invites contribution from anyone. Further contributions towards the project are welcome, be it through creation of additional timetables or improvements to the route representation/accuracy.
