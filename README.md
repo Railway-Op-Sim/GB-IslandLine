@@ -1,5 +1,8 @@
 # Island Line, Isle of Wight UK
 South Western Railway: Island Line, Isle of Wight, UK
+
+![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-ValleyLines/master/Images/IslandLine.bmp)
+
 ## Current Status
 
 | Stage         | Status        |
