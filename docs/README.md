@@ -13,7 +13,7 @@ The route features all the main stations:
 - Ryde Pier Head
 - Ryde Esplanade
 - Ryde St. John's Road
-- Smallbrook Junction
+- Smallbrook Junction (For the Isle of Wight Steam Railway)
 - Brading
 - Sandown
 - Lake
