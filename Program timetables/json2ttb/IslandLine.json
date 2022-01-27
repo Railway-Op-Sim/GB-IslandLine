@@ -1,6 +1,80 @@
 {
     "startTime":"05:30",
     "services": [
-        
+        {
+            "ref":"8Z23",
+            "description":"Ryde Depot to Ryde St John's Road",
+            "startSpeed":0,
+            "dataTemplate":"C230_2",
+            "increment":1,
+            "events": [
+                "05:30;Snt;32-24 32-25",
+                "05:32;Ryde Depot",
+                "05:33;Ryde Depot Headshunt",
+                "05:34;Ryde St John's Road",
+                "05:35;Fns;2U02"
+            ],
+            "times": [
+                "00:00"
+            ]
+        },
+        {
+            "ref":"2U02",
+            "description":"05:35 Ryde St John's Road to Ryde Pier Head",
+            "increment":1,
+            "events": [
+                "05:35;Sns;8Z23",
+                "05:35;Ryde St John's Road",
+                "05:38;05:39;Ryde Espanade",
+                "05:41;Ryde Pier Head",
+                "05:41;cdt",
+                "05:42;Fns;2D01"
+            ],
+            "times": [
+                "00:00"
+            ]
+        },
+        {
+            "ref":"2D01",
+            "description":"%t00:00% Ryde Pier Head to Shanklin",
+            "increment":4,
+            "events": [
+                "23:57;Sns;2U02",
+                "00:00;Ryde Pier Head",
+                "00:02;00:02;Ryde Esplanade",
+                "00:05;00:06;Ryde St John's Road",
+                "00:08;pas;Smallbrook Junction",
+                "00:13;00:14;Brading",
+                "00:18;00:19;Sandown",
+                "00:22;00:22;Lake",
+                "00:25;Shanklin",
+                "00:26;cdt",
+                "00:27;Fns;2U06"
+            ],
+            "times": [
+                "05:45","06:45","07:45","08:45","09:45","10:45","11:45","12:45","13:45","14:45","15:45","16:45","17:45","18:45"
+            ]
+        },
+        {
+            "ref":"2U06",
+            "description":"%t00:00% Shankin to Ryde Pier Head",
+            "increment":4,
+            "events": [
+                "23:57;Sns;2D01",
+                "00:00;Shanklin",
+                "00:02;00:02;Lake",
+                "00:05;00:05;Sandown",
+                "00:10;00:10;Brading",
+                "00:15;pas;Smallbrook Junction",
+                "00:16;00:17;Ryde St John's Road",
+                "00:21;00:22;Ryde Esplanade",
+                "00:24;Ryde Pier Head",
+                "00:25;cdt",
+                "00:27;Fns;2D05"
+            ],
+            "times": [
+                "06:15","07:15","08:15","09:15","10:15","11:15","12:15","13:15","14:15","15:15","16:15","17:15","18:15","19:15"
+            ]
+        }
     ]
 }
