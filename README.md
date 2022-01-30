@@ -18,4 +18,6 @@ South Western Railway: Island Line, Isle of Wight, UK
 
 ## Data Sources 
 
-- OpenRailwayMap.org
+- [OpenRailwayMap.org](https://www.openrailwaymap.org/)
+- [OpenStreetMap.org](https://www.openstreetmap.org/#map=12/50.6771/-1.1937)
+- [Meurisse.org](https://map.meurisse.org/)
